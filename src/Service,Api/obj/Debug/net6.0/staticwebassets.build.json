@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uDnc/mpgNRBykYrvAxbDgTORp+kC326SokNDcxbxwbg=",
+  "Source": "Service,Api",
+  "BasePath": "_content/Service,Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

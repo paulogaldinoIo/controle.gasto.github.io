@@ -1,0 +1,479 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj"
+              },
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\Infra.Data.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj"
+              },
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\Infra.Crosscutting.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\Infra.Crosscutting.Identity.csproj",
+        "projectName": "Infra.Crosscutting.Identity",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\Infra.Crosscutting.Identity.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[6.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj",
+        "projectName": "Infra.Crusscutting.Bus",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "NetDevPack": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\Infra.Data.csproj",
+        "projectName": "Infra.Data",
+        "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain\\Domain.csproj"
+              },
+              "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\Infra.Crosscutting.Identity.csproj": {
+                "projectPath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crosscutting.Identity\\Infra.Crosscutting.Identity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[6.1.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

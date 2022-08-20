@@ -1,0 +1,15 @@
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\bin\Debug\net6.0\Infra.Crusscutting.Bus.deps.json
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\bin\Debug\net6.0\Infra.Crusscutting.Bus.dll
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\bin\Debug\net6.0\Infra.Crusscutting.Bus.pdb
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\bin\Debug\net6.0\Domain.Core.dll
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\bin\Debug\net6.0\Domain.Core.pdb
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.csproj.AssemblyReference.cache
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.AssemblyInfoInputs.cache
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.AssemblyInfo.cs
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.csproj.CoreCompileInputs.cache
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.csproj.CopyComplete
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.dll
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\refint\Infra.Crusscutting.Bus.dll
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\Infra.Crusscutting.Bus.pdb
+D:\Documents\Desenvolvimento\PROJETOS\C#\Core\DESENVOLVER.IO\MVC\ControleGasto\src\Infra.Crusscutting.Bus\obj\Debug\net6.0\ref\Infra.Crusscutting.Bus.dll

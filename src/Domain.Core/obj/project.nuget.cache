@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZWUfTkPxXARahQ0cU2Z5a77nZshFdBg4JYtuoe0xf5wU3Hzm79PkCmdMkG0pIC8x2T2deeRhyKG08rgcn12hA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Domain.Core\\Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netdevpack\\7.0.1\\netdevpack.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

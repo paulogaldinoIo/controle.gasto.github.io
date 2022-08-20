@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOrpFN4fSBGdksiup2GdB75RLrGSFsEi42cIBbVIH7jMq6Y+XYQi2PMtJUfU8nOWxuND6UZMMUJ5JWw8SKL/kA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Desenvolvimento\\PROJETOS\\C#\\Core\\DESENVOLVER.IO\\MVC\\controle.gasto.github.io\\src\\Infra.Crusscutting.Bus\\Infra.Crusscutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netdevpack\\7.0.1\\netdevpack.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
