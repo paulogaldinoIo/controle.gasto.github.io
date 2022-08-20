@@ -17,7 +17,7 @@ namespace Service_Api.Configuations
                     Title = "ControleEstoque Project",
                     Description = "ControleEsoque Api Swagger surface",
                     Contact = new OpenApiContact {Name = "Paulo Galdino", Email = "josepaulogaldino1@gmail.com", Url = new Uri("https://mail.google.com/mail/u/1/?ogbl#inbox") },
-                    License = new OpenApiLicense { Name = "MIT", Url = new Uri("https://github.com/EduardoPires/EquinoxProject/blob/master/LICENSE") }
+                    License = new OpenApiLicense { Name = "MIT", Url = new Uri("https://github.com/paulogaldinoIo/controle.gasto.github.io/blob/main/LICENSE") }
 
                 });
 
